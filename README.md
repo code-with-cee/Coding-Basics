@@ -13,7 +13,7 @@
 1. Watch my tiktok video on VSCode
 2. Watch my tiktok on Github
 3. Install <b>VSCode</b>
-4. Install <b>Github Desktop</b> to clone repositories and easily commit and push your code.
+4. Install <b>Github Desktop</b>
 
 ## Installation & Usage
 1. Fork this repo
